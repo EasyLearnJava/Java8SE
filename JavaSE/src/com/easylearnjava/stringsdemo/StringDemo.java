@@ -1,4 +1,4 @@
-package com.easylearnjava.stringexamples;
+package com.easylearnjava.stringsdemo;
 
 public class StringDemo {
 	
